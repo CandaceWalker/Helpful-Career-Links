@@ -1,4 +1,4 @@
-# 🚀 Engineering Career Tips & Resources
+🚀 Career Tips & Resources
 
 A curated collection of practical, recruiter‑approved career tips for engineers at every stage of their journey. This guide is designed to help engineers grow through continuous learning, strong communication, and real‑world problem‑solving.
 
