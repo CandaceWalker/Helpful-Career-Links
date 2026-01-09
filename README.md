@@ -4,7 +4,7 @@ A curated collection of practical, recruiter‑approved career tips for engineer
 
 ---
 
-## 🌟 1. Build a Habit of Continuous Learning
+ 🌟 1. Build a Habit of Continuous Learning
 
 Engineering evolves quickly — new tools, frameworks, and best practices appear constantly. Staying curious keeps you competitive and confident.
 
@@ -14,7 +14,7 @@ Engineering evolves quickly — new tools, frameworks, and best practices appear
 
 ---
 
-## 🧠 2. Understand the Business Side of Engineering
+ 🧠 2. Understand the Business Side of Engineering
 
 Engineers who understand cost, timelines, and business goals make better decisions and communicate more effectively with leadership.
 
@@ -24,7 +24,7 @@ Engineers who understand cost, timelines, and business goals make better decisio
 
 ---
 
-## 🗣️ 3. Strengthen Communication Skills
+🗣️ 3. Strengthen Communication Skills
 
 Engineering success isn’t just technical — it’s also about explaining ideas clearly, collaborating, and asking the right questions.
 
